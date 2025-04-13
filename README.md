@@ -12,6 +12,9 @@ This project demonstrates how to leverage **Gemini 2.0 Flash** and **Gemini 2.5 
 | **Reasoning**        | Visual Interpretation     | Interprets complex visual cues with clinical context         |
 | **Captioning**       | Natural Language Summary  | Generates descriptive explanations of visual features        |
 
+
+<img src="https://github.com/janithaDassanayake/dummyimages/blob/main/second_row_to_top_3x3.png" alt="Geminiss 2.5 Pro Experimental Benchmarks" />
+
 ### 🔍 1. Detection
 
 Gemini can identify and generate 2D bounding boxes around clinically relevant regions in medical images. This includes visible signs of disease, anomalies, or procedural landmarks. The process requires no prior fine-tuning and is guided entirely through language-based instructions.
@@ -22,19 +25,10 @@ Gemini can identify and generate 2D bounding boxes around clinically relevant re
 Beyond simple detection, Gemini is capable of clinical reasoning—interpreting visual patterns in context. This includes differentiating between similar conditions, assessing progression or severity, and understanding spatial relationships between findings. Such reasoning mimics the visual diagnostic process of a clinician.
 
 
-
 ### 🖋️ 3. Visual Captioning
 
 Gemini can generate detailed textual descriptions of medical images, capturing attributes like structure, texture, color, shape, and abnormal features. These captions enhance explainability and can support reporting, education, or automated triage workflows.
 
-
-### 🧩 Summary
-
-| Component            | Task Type               | Description                                                  |
-|----------------------|--------------------------|--------------------------------------------------------------|
-| **Detection**        | Bounding Box Localization| Identifies regions of interest within clinical images        |
-| **Reasoning**        | Visual Interpretation     | Interprets complex visual cues with clinical context         |
-| **Captioning**       | Natural Language Summary  | Generates descriptive explanations of visual features        |
 
 <img src="https://github.com/janithaDassanayake/dummyimages/blob/main/download%20(26).png" alt="Gemini 2.5 Pro Experimental Benchmarks" />
 <br>
