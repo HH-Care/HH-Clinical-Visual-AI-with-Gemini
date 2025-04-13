@@ -6,6 +6,11 @@ Object detection is a foundational task in medical image analysis, enabling the 
 This project demonstrates how to leverage **Gemini 2.0 Flash** and **Gemini 2.5 Pro** for clinical visual understanding through three key components:
 
 
+| Component            | Task Type               | Description                                                  |
+|----------------------|--------------------------|--------------------------------------------------------------|
+| **Detection**        | Bounding Box Localization| Identifies regions of interest within clinical images        |
+| **Reasoning**        | Visual Interpretation     | Interprets complex visual cues with clinical context         |
+| **Captioning**       | Natural Language Summary  | Generates descriptive explanations of visual features        |
 
 ### 🔍 1. Detection
 
